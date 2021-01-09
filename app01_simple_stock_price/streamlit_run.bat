@@ -1,0 +1,1 @@
+streamlit run stock_price.py
