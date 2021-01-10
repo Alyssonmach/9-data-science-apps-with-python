@@ -1,0 +1,1 @@
+streamlit run eda_football.py
