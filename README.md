@@ -3,6 +3,7 @@
 [[freeCodeCamp Course](https://www.youtube.com/watch?v=JwSS70SZdyM&t=10906s)]:  build interactive and data-driven web apps in Python using the Streamlit library.
 
 ## List of Applications
+
 ```
 - [x] 1. Simple Stock Price
 - [x] 2. Simple Bioinformatics DNA Count
@@ -18,8 +19,17 @@
 ## Cloning the Repository
 
 Create a folder somewhere on your PC to clone the repository. with Git installed, enter the following command:
+
 ```
 git clone https://github.com/Alyssonmach/12-Data-Science-Apps-with-Python.git
+```
+
+## Run App
+
+to run the application with streamlit, run the following command:
+
+```
+streamlit run [file_name].py
 ```
 
 - [Original Repository](https://github.com/dataprofessor/streamlit_freecodecamp)
