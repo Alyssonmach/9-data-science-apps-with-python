@@ -1,4 +1,4 @@
-# 12 Data Science Apps with Python
+# 9 Data Science Apps with Python
 
 [[freeCodeCamp Course](https://www.youtube.com/watch?v=JwSS70SZdyM&t=10906s)]:  build interactive and data-driven web apps in Python using the Streamlit library.
 
@@ -13,9 +13,6 @@
 - [x] 7. Classification Iris
 - [x] 8. Classification Penguins
 - [x] 9. Regression Boston Housing
-- [x] 10. Regression Bioinformatics Solubility
-- [x] 11. Deploy to Heroku
-- [x] 12. Deploy to Streamlit Sharing
 ```
 
 ## Cloning the Repository
