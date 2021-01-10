@@ -14,6 +14,7 @@
 - [x] 7. Classification Iris
 - [x] 8. Classification Penguins
 - [x] 9. Regression Boston Housing
+- [x] 10. Deploy to Heroku
 ```
 
 ## Cloning the Repository
