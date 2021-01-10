@@ -1,0 +1,118 @@
+Player,Tm,Age,Pos,G,GS,Att,Yds,TD,1D,Lng,Y/A,Y/G,Fmb
+Derrick Henry *,TEN,25,RB,15,15,303,1540,16,73,74,5.1,102.7,5
+Ezekiel Elliott*,DAL,24,RB,16,16,301,1357,12,78,33,4.5,84.8,3
+Nick Chubb*,CLE,24,RB,16,16,298,1494,8,62,88,5.0,93.4,3
+Christian McCaffrey*+,CAR,23,RB,16,16,287,1387,15,57,84,4.8,86.7,1
+Chris Carson,SEA,25,RB,15,15,278,1230,7,75,59,4.4,82.0,7
+Joe Mixon,CIN,23,RB,16,15,278,1137,5,56,41,4.1,71.1,0
+Leonard Fournette,JAX,24,RB,15,15,265,1152,3,55,81,4.3,76.8,1
+Dalvin Cook*,MIN,24,RB,14,14,250,1135,13,60,75,4.5,81.1,4
+Marlon Mack,IND,23,RB,14,12,247,1091,8,67,63,4.4,77.9,0
+Sony Michel,NWE,24,RB,16,14,247,912,7,55,26,3.7,57.0,2
+Le'Veon Bell,NYJ,27,RB,15,15,245,789,3,36,19,3.2,52.6,1
+Carlos Hyde,HOU,29,RB,16,14,245,1070,6,55,58,4.4,66.9,4
+Josh Jacobs,OAK,21,RB,13,13,242,1150,7,53,51,4.8,88.5,1
+Aaron Jones,GNB,25,RB,16,16,236,1084,16,55,56,4.6,67.8,3
+Phillip Lindsay,DEN,25,RB,16,16,224,1011,7,38,40,4.5,63.2,0
+Todd Gurley,LAR,25,RB,15,15,223,857,12,51,25,3.8,57.1,3
+Saquon Barkley,NYG,22,RB,13,13,217,1003,6,45,68,4.6,77.2,1
+Adrian Peterson,WAS,34,RB,15,15,211,898,5,41,32,4.3,59.9,3
+Mark Ingram*,BAL,30,RB,15,15,202,1018,10,53,53,5.0,67.9,2
+Devonta Freeman,ATL,27,RB,14,14,184,656,2,31,28,3.6,46.9,3
+Miles Sanders,PHI,22,RB,16,11,179,818,3,30,65,4.6,51.1,2
+Lamar Jackson*+,BAL,22,QB,15,15,176,1206,7,71,47,6.9,80.4,9
+Ronald Jones II,TAM,22,RB,16,9,172,724,6,34,49,4.2,45.3,3
+Alvin Kamara *,NOR,24,RB,14,9,171,797,5,32,40,4.7,56.9,4
+Melvin Gordon,LAC,26,RB,12,11,162,612,8,39,24,3.8,51.0,4
+Devin Singletary,BUF,22,RB,12,8,151,775,2,37,38,5.1,64.6,4
+Tevin Coleman,SFO,26,RB,14,11,137,544,6,26,48,4.0,38.9,0
+James Conner,PIT,24,RB,10,10,116,464,4,26,25,4.0,46.4,1
+Kerryon Johnson,DET,22,RB,8,7,113,403,3,22,20,3.6,50.4,1
+Josh Allen,BUF,23,QB,16,16,109,510,9,42,36,4.7,31.9,14
+Kyler Murray,ARI,22,QB,16,16,93,544,4,27,35,5.8,34.0,5
+Deshaun Watson *,HOU,24,QB,15,15,82,413,7,29,30,5.0,27.5,10
+Russell Wilson *,SEA,31,QB,16,16,75,342,3,17,21,4.6,21.4,8
+Kalen Ballage,MIA,24,RB,12,6,74,135,3,10,8,1.8,11.3,0
+Gardner Minshew II,JAX,23,QB,14,12,67,344,0,20,21,5.1,24.6,13
+Tarik Cohen,CHI,24,RB,16,11,64,213,0,15,19,3.3,13.3,3
+Carson Wentz,PHI,27,QB,16,16,62,243,1,21,19,3.9,15.2,16
+Jameis Winston,TAM,25,QB,16,16,59,250,1,18,26,4.2,15.6,12
+Jacoby Brissett,IND,27,QB,15,15,56,228,4,20,24,4.1,15.2,7
+Ryan Fitzpatrick,MIA,37,QB,15,13,54,243,4,16,20,4.5,16.2,9
+Dak Prescott,DAL,26,QB,16,16,52,277,3,19,42,5.3,17.3,6
+Mitchell Trubisky,CHI,25,QB,15,15,48,193,2,12,23,4.0,12.9,5
+Jimmy Garoppolo,SFO,28,QB,16,16,46,62,1,13,11,1.3,3.9,10
+Aaron Rodgers *,GNB,36,QB,16,16,46,183,1,9,17,4.0,11.4,4
+Daniel Jones,NYG,22,QB,13,12,45,279,2,21,26,6.2,21.5,18
+Patrick Mahomes *,KAN,24,QB,14,14,43,218,2,15,25,5.1,15.6,3
+Ryan Tannehill*,TEN,31,QB,12,10,43,185,4,14,25,4.3,15.4,6
+Matt Ryan,ATL,34,QB,15,15,34,147,1,10,12,4.3,9.8,9
+Sam Darnold,NYJ,22,QB,13,13,33,62,2,6,24,1.9,4.8,11
+Jared Goff,LAR,25,QB,16,16,33,40,2,5,8,1.2,2.5,10
+Kyle Allen,CAR,23,QB,13,12,32,106,2,9,17,3.3,8.2,13
+Andy Dalton,CIN,32,QB,13,13,32,73,4,12,17,2.3,5.6,8
+Kirk Cousins *,MIN,31,QB,15,15,31,63,1,8,14,2.0,4.2,10
+Baker Mayfield,CLE,24,QB,16,16,28,141,3,15,18,5.0,8.8,6
+Derek Carr,OAK,28,QB,16,16,27,82,2,7,15,3.0,5.1,7
+Tom Brady,NWE,42,QB,16,16,26,34,3,8,17,1.3,2.1,4
+Mason Rudolph,PIT,24,QB,10,8,21,42,0,6,13,2.0,4.2,4
+Matthew Stafford,DET,31,QB,8,8,20,66,0,5,12,3.3,8.3,5
+Curtis Samuel,CAR,23,WR,16,15,19,130,1,7,16,6.8,8.1,0
+Robert Woods,LAR,27,WR,15,15,17,115,1,5,20,6.8,7.7,0
+Deebo Samuel,SFO,23,WR,15,11,14,159,3,5,31,11.4,10.6,2
+Philip Rivers,LAC,38,QB,16,16,12,29,0,2,12,2.4,1.8,8
+Christian Kirk,ARI,23,WR,13,13,10,93,0,4,28,9.3,7.2,0
+Drew Brees*,NOR,40,QB,11,11,9,-4,1,2,2,-0.4,-0.4,0
+Julian Edelman,NWE,33,WR,16,13,8,27,0,2,9,3.4,1.7,3
+Tyreek Hill*,KAN,25,WR,12,12,8,23,0,1,5,2.9,1.9,0
+Isaiah McKenzie,BUF,24,WR,15,8,8,49,0,4,16,6.1,3.3,0
+C.J. Ham*,MIN,26,FB,16,7,7,17,0,2,9,2.4,1.1,1
+Brandin Cooks,LAR,26,WR,14,14,6,52,0,3,27,8.7,3.7,0
+D.J. Moore,CAR,22,WR,15,15,6,40,0,3,13,6.7,2.7,2
+Sterling Shepard,NYG,26,WR,10,10,6,72,0,3,23,12.0,7.2,0
+Stefon Diggs,MIN,26,WR,15,15,5,61,0,3,27,12.2,4.1,4
+George Kittle*+,SFO,26,TE,14,14,5,22,0,1,18,4.4,1.6,1
+Dede Westbrook,JAX,26,WR,15,11,5,27,0,0,8,5.4,1.8,1
+Tyler Boyd,CIN,25,WR,16,15,4,23,0,1,10,5.8,1.4,2
+Diontae Johnson,PIT,23,WR,16,12,4,41,0,2,17,10.3,2.6,5
+Tyler Lockett,SEA,27,WR,16,16,4,-5,0,0,3,-1.3,-0.3,1
+Jonnu Smith,TEN,24,TE,16,14,4,78,0,2,57,19.5,4.9,0
+Adam Thielen,MIN,29,WR,10,10,4,6,1,1,3,1.5,0.6,0
+Keenan Allen *,LAC,27,WR,16,16,3,16,0,1,18,5.3,1.0,0
+Odell Beckham Jr.,CLE,27,WR,16,15,3,10,0,1,11,3.3,0.6,1
+A.J. Brown,TEN,22,WR,16,11,3,60,1,2,49,20.0,3.8,1
+Evan Engram,NYG,25,TE,8,6,3,7,0,0,5,2.3,0.9,0
+Noah Fant,DEN,22,TE,16,11,3,-12,0,0,-2,-4.0,-0.8,1
+Ted Ginn Jr.,NOR,34,WR,16,9,3,18,0,2,12,6.0,1.1,0
+Kyle Juszczyk*,SFO,28,FB,12,12,3,7,0,1,6,2.3,0.6,0
+John Ross,CIN,24,WR,8,8,3,4,0,0,5,1.3,0.5,1
+Courtland Sutton *,DEN,24,WR,16,14,3,17,0,1,9,5.7,1.1,2
+Nelson Agholor,PHI,26,WR,11,10,2,7,0,1,16,3.5,0.6,2
+John Brown,BUF,29,WR,15,15,2,7,0,0,4,3.5,0.5,0
+DJ Chark*,JAX,23,WR,15,14,2,20,0,1,20,10.0,1.3,0
+DeAndre Hopkins*+,HOU,27,WR,15,15,2,18,0,2,12,9.0,1.2,0
+Julio Jones *,ATL,30,WR,15,15,2,-3,0,0,1,-1.5,-0.2,1
+Marvin Jones,DET,29,WR,13,11,2,0,0,0,4,0.0,0.0,0
+Cooper Kupp,LAR,26,WR,16,14,2,4,0,0,6,2.0,0.3,3
+D.K. Metcalf,SEA,22,WR,16,15,2,11,0,0,7,5.5,0.7,3
+Zach Pascal,IND,25,WR,16,13,2,16,0,1,12,8.0,1.0,0
+Calvin Ridley,ATL,25,WR,13,10,2,34,0,2,19,17.0,2.6,0
+Willie Snead,BAL,27,WR,16,11,2,2,0,0,2,1.0,0.1,0
+Marquez Valdes-Scantling,GNB,25,WR,16,10,2,9,0,0,9,4.5,0.6,0
+Darren Waller,OAK,27,TE,16,16,2,5,0,0,7,2.5,0.3,1
+Sammy Watkins,KAN,26,WR,14,13,2,12,0,1,11,6.0,0.9,2
+Robby Anderson,NYJ,26,WR,16,15,1,4,0,0,4,4.0,0.3,1
+Amari Cooper*,DAL,25,WR,16,16,1,6,0,0,6,6.0,0.4,0
+Jamison Crowder,NYJ,26,WR,16,12,1,4,0,0,4,4.0,0.3,0
+Will Dissly,SEA,23,TE,6,6,1,7,0,0,7,7.0,1.2,1
+Chris Godwin*,TAM,23,WR,14,14,1,8,0,0,8,8.0,0.6,0
+Alshon Jeffery,PHI,29,WR,10,10,1,2,1,1,2,2.0,0.2,0
+Travis Kelce*,KAN,30,TE,16,16,1,4,1,1,4,4.0,0.3,1
+Dawson Knox,BUF,23,TE,15,11,1,9,0,1,9,9.0,0.6,0
+Jarvis Landry *,CLE,27,WR,16,16,1,10,0,1,10,10.0,0.6,0
+Vance McDonald,PIT,29,TE,14,14,1,2,0,0,2,2.0,0.1,1
+Anthony Miller,CHI,25,WR,16,7,1,-1,0,0,-1,-1.0,-0.1,1
+Allen Robinson,CHI,26,WR,16,15,1,2,0,0,2,2.0,0.1,0
+Golden Tate,NYG,31,WR,11,10,1,16,0,1,16,16.0,1.5,1
+Michael Thomas*+,NOR,26,WR,16,15,1,-9,0,0,-9,-9.0,-0.6,1
+Mike Williams,LAC,25,WR,15,15,1,2,0,0,2,2.0,0.1,0
