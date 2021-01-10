@@ -1,0 +1,1 @@
+streamlit run classification_iris.py
